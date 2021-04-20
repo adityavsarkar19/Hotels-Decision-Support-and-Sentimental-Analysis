@@ -61,6 +61,9 @@ def visualize_kmeans(clusters, centroids, og_centroids, k):
             plt.scatter(data[0], data[1], c=colors[i])
         plt.scatter(og_centroids[i][0], og_centroids[i][1], s=90, facecolors='none', edgecolors='black')
         plt.scatter(centroids[i][0], centroids[i][1], c='black', marker='X')
+    plt.title(f"{city}")
+    plt.xlabel("TripAdvisor Rating")
+    plt.ylabel("Average Rating from 100 comments")
     plt.show()
 
 # k-means iterations
@@ -93,10 +96,10 @@ def KMeans(data, n_clusters, centroids={}):
 # Main Program
 
 #read CSV file
-filename = 'clustering/Kuala_Lumpur_cluster.csv'
+# filename = 'clustering/Kuala_Lumpur_cluster.csv'
 # filename = 'clustering/Bangkok_cluster.csv'
-# filename = 'clustering/Singapore_cluster.csv'
-
+filename = 'clustering/Singapore_cluster.csv'
+city = "Singapore"
 df = pd.read_csv(filename)
 kmeans_array = np.array(df) # use GB_array in KMeans function
 

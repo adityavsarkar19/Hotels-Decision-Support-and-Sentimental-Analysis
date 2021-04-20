@@ -1,5 +1,6 @@
 {
     "Element Kuala Lumpur Hotel": {
+        "address": "Ilham Tower, no.8 Jalan Binjai, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -406,6 +407,7 @@
         "comment_rating": 44.5
     },
     "The RuMa Hotel and Residences, Kuala Lumpur": {
+        "address": "7 Jalan Kia Peng, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 50,
         "reviews": {
             "1": {
@@ -812,6 +814,7 @@
         "comment_rating": 46.9
     },
     "Four Seasons Hotel Kuala Lumpur": {
+        "address": "145 Jalan Ampang, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -1218,6 +1221,7 @@
         "comment_rating": 48.9
     },
     "Mandarin Oriental, Kuala Lumpur Hotel": {
+        "address": "Kuala Lumpur City Centre, Kuala Lumpur 50088 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -1624,6 +1628,7 @@
         "comment_rating": 44
     },
     "Banyan Tree Kuala Lumpur Hotel": {
+        "address": "02 Jalan Conlay, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -2030,6 +2035,7 @@
         "comment_rating": 48.5
     },
     "Hilton Kuala Lumpur Hotel": {
+        "address": "3 Jalan Stesen Sentral, Kuala Lumpur 50470 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -2436,6 +2442,7 @@
         "comment_rating": 44.1
     },
     "Lanson Place Bukit Ceylon Serviced Residences Hotel, Kuala Lumpur": {
+        "address": "10 Jalan Ceylon, Kuala Lumpur 50200 Malaysia",
         "avg_rating": 50,
         "reviews": {
             "1": {
@@ -2842,6 +2849,7 @@
         "comment_rating": 49.1
     },
     "Grand Hyatt Kuala Lumpur Hotel": {
+        "address": "12 Jalan Pinang, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -3248,6 +3256,7 @@
         "comment_rating": 44.5
     },
     "The Majestic Hotel Kuala Lumpur": {
+        "address": "No 5, Jalan Sultan Hishamuddin, Kuala Lumpur 50000 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -3634,7 +3643,8 @@
         "comment_rating": 36.21052631578947
     },
     "Oasia Suites Kuala Lumpur by Far East Hospitality Hotel": {
-        "avg_rating": 40,
+        "address": "10 Lorong P Ramlee, Kuala Lumpur 50250 Malaysia",
+        "avg_rating": 45,
         "reviews": {
             "1": {
                 "review_text": "I stayed here last weekend. Pretty last minute but I njoyed myself. My kids did not want to leave the pool. Staff was friendly and sweet. Zarul was the front desk guy that did my check in. He was informative about the surroundings of places to eat and shop. Room was clean and just nice for my family.",
@@ -4040,6 +4050,7 @@
         "comment_rating": 40.4
     },
     "Sunway Velocity Hotel, Kuala Lumpur": {
+        "address": "Lingkaran SV, Sunway Velocity, Kuala Lumpur 55100 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -4446,6 +4457,7 @@
         "comment_rating": 44.2
     },
     "PARKROYAL Serviced Suites Kuala Lumpur Hotel": {
+        "address": "No. 1, Jalan Nagasari off Jalan Raja Chulan, Kuala Lumpur 50200 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -4852,6 +4864,7 @@
         "comment_rating": 39.3
     },
     "Sunway Putra Hotel, Kuala Lumpur": {
+        "address": "100 Jalan Putra, Kuala Lumpur 50350 Malaysia",
         "avg_rating": 40,
         "reviews": {
             "1": {
@@ -5258,6 +5271,7 @@
         "comment_rating": 49
     },
     "Traders Hotel, Kuala Lumpur": {
+        "address": "Kuala Lumpur City Centre, Kuala Lumpur 50088 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -5664,6 +5678,7 @@
         "comment_rating": 43.6
     },
     "Royale Chulan Kuala Lumpur Hotel": {
+        "address": "5 Jalan Conlay, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 45,
         "reviews": {
             "1": {
@@ -6070,6 +6085,7 @@
         "comment_rating": 36.4
     },
     "Komune Living Hotel, Kuala Lumpur": {
+        "address": "No. 20 Jalan Kerinchi Kiri 3, Kuala Lumpur 59200 Malaysia",
         "avg_rating": 35,
         "reviews": {
             "1": {
@@ -6476,6 +6492,7 @@
         "comment_rating": 37.7
     },
     "Metro Hotel, Kuala Lumpur": {
+        "address": "No. 208 Jalan Imbi Bukit Bintang, Kuala Lumpur 55100 Malaysia",
         "avg_rating": 35,
         "reviews": {
             "1": {
@@ -6882,6 +6899,7 @@
         "comment_rating": 35.3
     },
     "Pullman Kuala Lumpur City Centre Hotel & Residences": {
+        "address": "Jalan Conlay, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 40,
         "reviews": {
             "1": {
@@ -7288,6 +7306,7 @@
         "comment_rating": 43.5
     },
     "Corus Hotel Kuala Lumpur": {
+        "address": "Corus Hotel Jalan Ampang, Kuala Lumpur 50450 Malaysia",
         "avg_rating": 40,
         "reviews": {
             "1": {
@@ -7694,6 +7713,7 @@
         "comment_rating": 38.7
     },
     "Seri Pacific Hotel Kuala Lumpur": {
+        "address": "Jalan Putra, Kuala Lumpur 50350 Malaysia",
         "avg_rating": 40,
         "reviews": {
             "1": {

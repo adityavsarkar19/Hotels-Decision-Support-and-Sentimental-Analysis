@@ -404,7 +404,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 46.8
+        "comment_rating": 46.8,
+        "geocode": [
+            100.58333,
+            14.33333
+        ]
     },
     "Chatrium Hotel Riverside Bangkok": {
         "address": "28 Charoenkrung Soi 70 Wat Phraya Krai, Bang Kho Laem, Bangkok 10120 Thailand",
@@ -811,7 +815,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 48.7
+        "comment_rating": 48.7,
+        "geocode": [
+            100.505683,
+            13.706962
+        ]
     },
     "The Quarter Ladprao by UHG Hotel, Bangkok": {
         "address": "Soi Ladprao 4 Ladprao Road, Chom Phon, Chatuchak, Bangkok 10900 Thailand",
@@ -1218,7 +1226,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 47.9
+        "comment_rating": 47.9,
+        "geocode": [
+            100.563321,
+            13.81711
+        ]
     },
     "The Quarter Phromphong By UHG Hotel, Bangkok": {
         "address": "31 Soi Sukhumvit 31, Khwaeng Khlong Toei Nuea, Bangkok 10110 Thailand",
@@ -1625,7 +1637,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 48.7
+        "comment_rating": 48.7,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Banyan Tree Bangkok Hotel": {
         "address": "21/100 South Sathon Road. Thai Wah Tower II, Bangkok 10120 Thailand",
@@ -2032,7 +2048,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 47
+        "comment_rating": 47,
+        "geocode": [
+            100.520892,
+            13.718254
+        ]
     },
     "Royal Orchid Sheraton Hotel & Towers, Bangkok": {
         "address": "2 Charoen Krung Road Soi 30 Siphya, Bangrak, Bangkok 10500 Thailand",
@@ -2439,7 +2459,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 44.2
+        "comment_rating": 44.2,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "SKYVIEW Hotel Bangkok": {
         "address": "12, Soi Sukhumvit 24 Khlong Tan, Khlong Toei, Bangkok 10110 Thailand",
@@ -2846,7 +2870,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 45.3
+        "comment_rating": 45.3,
+        "geocode": [
+            100.579005,
+            13.722556
+        ]
     },
     "The Quarter Ari by UHG Hotel, Bangkok": {
         "address": "428 Phaholyothin Road in front of Soi 10 Samsen Nai, Phya Thai, Bangkok 10400 Thailand",
@@ -3253,7 +3281,11 @@
                 "rating": 40
             }
         },
-        "comment_rating": 43.7
+        "comment_rating": 43.7,
+        "geocode": [
+            -95.041557,
+            33.159406
+        ]
     },
     "Carlton Hotel Bangkok Sukhumvit": {
         "address": "491 Sukhumvit Road, Khwaeng Klongtoey Nua, Khet Wattana, Bangkok 10110 Thailand",
@@ -3640,7 +3672,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 49.36842105263158
+        "comment_rating": 49.36842105263158,
+        "geocode": [
+            100.5719346,
+            13.7289055
+        ]
     },
     "Evergreen Place Siam by UHG Hotel, Bangkok": {
         "address": "318, Phayathai Road Thanon Phetchaburi, Ratchathewi, Bangkok 10400 Thailand",
@@ -3943,7 +3979,11 @@
                 "rating": 40
             }
         },
-        "comment_rating": 45.54054054054054
+        "comment_rating": 45.54054054054054,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Novotel Bangkok Platinum Pratunam Hotel": {
         "address": "220 Petchaburi Road Ratchathewi, Bangkok 10400 Thailand",
@@ -4350,7 +4390,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 49.5
+        "comment_rating": 49.5,
+        "geocode": [
+            100.541595,
+            13.754578
+        ]
     },
     "Sindhorn Midtown Hotel Bangkok": {
         "address": "68 Langsuan Road, Bangkok 10330 Thailand",
@@ -4757,7 +4801,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 49.5
+        "comment_rating": 49.5,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Millennium Hilton Bangkok Hotel": {
         "address": "123 Charoennakorn Road Khlongtonsai, Khlongsan, Bangkok 10600 Thailand",
@@ -5164,7 +5212,11 @@
                 "rating": 20
             }
         },
-        "comment_rating": 43.2
+        "comment_rating": 43.2,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Siri Sathorn Bangkok by UHG Hotel": {
         "address": "27 Soi Saladaeng 1, Silom Road, Bangkok 10500 Thailand",
@@ -5571,7 +5623,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 43.6
+        "comment_rating": 43.6,
+        "geocode": [
+            100.538691,
+            13.725366
+        ]
     },
     "Hotel Verve, Bangkok": {
         "address": "22/1 Sukhumvit 55 (Soi Thong Lo) Khwaeng Klongton Nue, Khet Wattana, Bangkok 10110 Thailand",
@@ -5866,7 +5922,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 48.19444444444444
+        "comment_rating": 48.19444444444444,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "FuramaXclusive Asoke Hotel, Bangkok": {
         "address": "133/2 Sukhumvit Soi 21, Bangkok 10110 Thailand",
@@ -6273,7 +6333,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 47.1
+        "comment_rating": 47.1,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Novotel Bangkok on Siam Square Hotel": {
         "address": "392/44 Siam Square Soi 6, Bangkok 10330 Thailand",
@@ -6680,7 +6744,11 @@
                 "rating": 30
             }
         },
-        "comment_rating": 43.9
+        "comment_rating": 43.9,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "Asoke Residence Sukhumvit by UHG Condominium, Bangkok": {
         "address": "235/20-25 Sukhumvit 21 , Klong Toey Nue, Wattana, Bangkok 10110 Thailand",
@@ -6919,7 +6987,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 47.241379310344826
+        "comment_rating": 47.241379310344826,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     },
     "FuramaXclusive Sathorn Hotel, Bangkok": {
         "address": "59, Soi Silom 3, Silom Road Silom, Bang Rak, Bangkok 10500 Thailand",
@@ -7326,7 +7398,11 @@
                 "rating": 50
             }
         },
-        "comment_rating": 46
+        "comment_rating": 46,
+        "geocode": [
+            100.530221,
+            13.727324
+        ]
     },
     "Alt Hotel Nana by UHG, Bangkok": {
         "address": "222 Sukhumvit Soi 4 Sub Soi 2 (Nana) Khlong Toei, Khlong Toei, Bangkok 10110 Thailand",
@@ -7733,6 +7809,10 @@
                 "rating": 50
             }
         },
-        "comment_rating": 44.6
+        "comment_rating": 44.6,
+        "geocode": [
+            100.644533,
+            13.881591
+        ]
     }
 }

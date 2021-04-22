@@ -14,4 +14,4 @@ The hotel data has been scraped from TripAdvisor using BeautifulSoup4 in the cod
 3. [Kuala Lumpur](https://www.tripadvisor.com/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html)
 
 ### Geocode Tagging
-Through the address data available for hotels on TripAdvisor, we have appended an approximate geocode [Longitude, Latitude] using the [Geocode API](https://geocodeapi.com/documentation). 
+Using the hotel name and address data available on TripAdvisor, we have forward searched approximate geocodes [Longitude, Latitude] through [Mapbox's API](https://www.mapbox.com/).

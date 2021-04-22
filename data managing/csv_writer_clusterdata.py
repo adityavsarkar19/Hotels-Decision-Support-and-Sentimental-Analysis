@@ -5,11 +5,12 @@ def numbers_to_csv(data):
     row_list = [["avg_rating", "comment_avg_rating"]]
     for i in data.keys():
         row = []
+        row.append(data[i]['avg_rating'])
         row.append(data[i]['comment_rating'])
         row_list.append(row)
     return row_list
 
-filename = "Kuala_Lumpur"
+filename = "Bangkok"
 with open(f"{filename}.json") as f:
         data = json.load(f)
 

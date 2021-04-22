@@ -10,7 +10,7 @@ import pandas as pd
 import plotly.offline as pyo
 from plotly.offline import init_notebook_mode
 # Read csv data
-dataFrame = pd.read_csv("Bangkok_cluster.csv")
+dataFrame = pd.read_csv('Singapore_cluster.csv')
 # Create initial arrays for hotels score
 actual_hotel_score = list()
 polarity_hotel_score = list()
@@ -18,11 +18,11 @@ base_content = list()
 
 # Append the data to the lists
 
-dataFrame1 = dataFrame['avg_rating']
+dataFrame1 = dataFrame['score']
 for i in dataFrame1:
     actual_hotel_score.append(i)
 
-dataFrame2 = dataFrame['comment_avg_rating']
+dataFrame2 = dataFrame['polarity_score']
 for i in dataFrame2:
     polarity_hotel_score.append(i)
 

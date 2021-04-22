@@ -7,7 +7,7 @@ Contributors:
 3. Sahil Verma
 
 ## Data Mining (Webscraping + API)
-The hotel data has been scraped from TripAdvisor using BeautifulSoup4 using the codebase from [this repository](https://github.com/Pro509/webscraper.git).
+The hotel data has been scraped from TripAdvisor using BeautifulSoup4 in the codebase from [this repository](https://github.com/Pro509/webscraper.git).
 
 1. [Bangkok](https://www.tripadvisor.com/Hotels-g293916-Bangkok-Hotels.html)
 2. [Singapore](https://www.tripadvisor.com/Hotels-g294265-Singapore-Hotels.html)

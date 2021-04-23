@@ -58,9 +58,9 @@ fig.update_layout(
     ),
     autosize = True,
     width = 1200,
-    height = 800,
+    height = 600,
     barmode='group',
     bargap=0.15, # gap between bars of adjacent location coordinates.
     bargroupgap=0.1 # gap between bars of the same location coordinate.
 )
-fig.show()
+fig.write_image("CSVBarplots.png")

@@ -17,4 +17,4 @@ The hotel data has been scraped from TripAdvisor using BeautifulSoup4 in the cod
 Using the hotel name and address data available on TripAdvisor, we have forward searched approximate geocodes [Longitude, Latitude] through [Mapbox's API](https://www.mapbox.com/).
 
 ### Sentiment Visualization
-'pip install plotly' to run the code
+`pip install -r requirements.txt` before using the mapping notebook (mapbox API key is ***recommended***).
